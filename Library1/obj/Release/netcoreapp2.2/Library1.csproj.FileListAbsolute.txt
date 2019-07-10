@@ -1,0 +1,8 @@
+D:\prjFiles\prj\Library1\Library1\bin\Release\netcoreapp2.2\Library1.deps.json
+D:\prjFiles\prj\Library1\Library1\bin\Release\netcoreapp2.2\Library1.dll
+D:\prjFiles\prj\Library1\Library1\bin\Release\netcoreapp2.2\Library1.pdb
+D:\prjFiles\prj\Library1\Library1\obj\Release\netcoreapp2.2\Library1.csproj.CoreCompileInputs.cache
+D:\prjFiles\prj\Library1\Library1\obj\Release\netcoreapp2.2\Library1.AssemblyInfoInputs.cache
+D:\prjFiles\prj\Library1\Library1\obj\Release\netcoreapp2.2\Library1.AssemblyInfo.cs
+D:\prjFiles\prj\Library1\Library1\obj\Release\netcoreapp2.2\Library1.dll
+D:\prjFiles\prj\Library1\Library1\obj\Release\netcoreapp2.2\Library1.pdb
